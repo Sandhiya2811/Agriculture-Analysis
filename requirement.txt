@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+numpy
+plotly
+SQLAlchemy
+psycopg2
+mysql-connector-python
