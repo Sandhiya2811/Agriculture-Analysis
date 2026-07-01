@@ -9,12 +9,17 @@ An interactive **Streamlit + Plotly** dashboard built on the **ICRISAT District 
 ### Insights & Questions Dashboard
 Exploratory analysis with 15 EDA charts and 10 key-question deep dives, each with an auto-generated insight callout.
 
-![Insights & Questions Dashboard](screenshots/eda-dashboard.jpg)
+![Insights & Questions Dashboard]
+<img width="1920" height="1140" alt="Screenshot 2026-07-01 125719" src="https://github.com/user-attachments/assets/79c18efb-8995-4389-9402-0327f9f3e5b3" />
+
+
 
 ### India Map Explorer (PhonePe-Pulse style)
 A full India choropleth map — pick a crop, category, metric, and year, then click any state to drill into its districts.
 
-![India Map Explorer](screenshots/map-explorer.jpg)
+![India Map Explorer]
+![Uploading Screenshot 2026-07-01 125814.png…]()
+
 
 ---
 
