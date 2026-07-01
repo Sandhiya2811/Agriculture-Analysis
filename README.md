@@ -54,11 +54,10 @@ A full India choropleth map — pick a crop, category, metric, and year, then cl
 
 ```
 agriculture_project/
-├── agriculture_dashboard.py                          # Main Streamlit app
+├── app.py                          # Main Streamlit app
 ├── ICRISAT-District Level Data - ICRISAT-District Level Data.csv   # Dataset
-├── screenshots/
-│   ├── eda-dashboard.jpg
-│   └── map-explorer.jpg
+├── Agri_data_Analysis.ipynb
+├── requirement.txt
 └── README.md
 ```
 
