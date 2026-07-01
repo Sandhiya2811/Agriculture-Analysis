@@ -18,7 +18,8 @@ Exploratory analysis with 15 EDA charts and 10 key-question deep dives, each wit
 A full India choropleth map — pick a crop, category, metric, and year, then click any state to drill into its districts.
 
 ![India Map Explorer]
-![Uploading Screenshot 2026-07-01 125814.png…]()
+<img width="1920" height="1140" alt="Screenshot 2026-07-01 125814" src="https://github.com/user-attachments/assets/54e3d9fa-408b-4415-8883-fcdbf20558f2" />
+
 
 
 ---
