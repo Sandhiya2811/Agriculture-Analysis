@@ -57,9 +57,27 @@ agriculture_project/
 ├── app.py                          # Main Streamlit app
 ├── ICRISAT-District Level Data - ICRISAT-District Level Data.csv   # Dataset
 ├── Agri_data_Analysis.ipynb
+├── Agriculture_explorer.pbix
 ├── requirement.txt
 └── README.md
 ```
+---
+
+## 📈 Power BI Dashboard
+A companion **Power BI** dashboard for quick, interactive insights on the ICRISAT district-level data.
+
+![Power BI Dashboard]
+
+<img width="1372" height="776" alt="Screenshot 2026-07-02 134440" src="https://github.com/user-attachments/assets/c8fce8bf-ff56-4424-b92a-61fe2ded32c7" />
+
+---
+
+<img width="1366" height="764" alt="Screenshot 2026-07-02 134454" src="https://github.com/user-attachments/assets/588b6267-9856-4a6e-b4da-ab6632db6f94" />
+
+---
+
+<img width="1368" height="759" alt="Screenshot 2026-07-02 134521" src="https://github.com/user-attachments/assets/6dca2b53-1cf5-46ef-9e94-a2e6bd1e10bf" />
+
 
 ---
 
