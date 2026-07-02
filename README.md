@@ -78,6 +78,19 @@ A companion **Power BI** dashboard for quick, interactive insights on the ICRISA
 
 <img width="1368" height="759" alt="Screenshot 2026-07-02 134521" src="https://github.com/user-attachments/assets/6dca2b53-1cf5-46ef-9e94-a2e6bd1e10bf" />
 
+---
+
+**Sample Insights:**
+- Punjab, Uttar Pradesh, and West Bengal remain the top 3 rice-producing states, with Punjab's share rising sharply after 2010
+- Andhra Pradesh and Haryana show the highest 5-year growth rate in oilseed production among all states
+- Vidisha, Darjeeling, and Shajapur districts recorded the biggest wheat yield increases over the last 5 years
+- Cotton production across the top 5 cotton-growing states has climbed steadily since the 1990s, with a sharp spike post-2000
+- Rice, wheat, and maize all show a strong positive correlation between cultivated area and total production at the district level
+- Jamnagar, Junagadh, and Rajkot (Gujarat) lead groundnut production in 2017
+- Average maize yield across states has trended upward since 1970, with a steep jump approaching 2020
+- Rice production consistently outweighs wheat production among the top 5 states over the 2008–2016 window, even as wheat output trends upward
+- Madhya Pradesh and Rajasthan have the largest area under oilseed cultivation among all states
+- Ludhiana and Sangrur (Punjab) top the list of districts with the highest average rice yield (kg/ha)
 
 ---
 
